@@ -2,7 +2,7 @@ import React from "react";
 import HeroImg from "../assets/hero-img.png";
 
 import {
-  AiOutlineTwitter,
+  AiOutlineInstagram,
   AiOutlineYoutube,
   AiOutlineFacebook,
 } from "react-icons/ai";
@@ -23,21 +23,21 @@ const Hero = () => {
 
           <div className="flex py-5 ">
             <a
-              href="https://twitter.com/CoderAmrin"
+              href="https://www.instagram.com/emmayaritza13/?hl=en"
               className="pr-4 inline-block text-accent hover:text-white"
             >
               {" "}
-              <AiOutlineTwitter size={40} />{" "}
+              <AiOutlineInstagram size={40} />{" "}
             </a>
             <a
-              href="https://www.youtube.com/@coderamrin"
+              href=""
               className="pr-4 inline-block text-accent hover:text-white"
             >
               {" "}
               <AiOutlineYoutube size={40} />{" "}
             </a>
             <a
-              href="https://www.facebook.com/CoderAmrin/"
+              href="https://www.facebook.com/emma.vazquez.9469"
               className="pr-4 inline-block text-accent hover:text-white"
             >
               {" "}
