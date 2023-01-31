@@ -8,31 +8,24 @@ const Projects = () => {
   const projects = [
     {
       img: devlog,
-      title: "devlog",
-      desc: " A multi author blog. Built with Node.js, MongoDB, React, Redux and Tailwind CSS ",
-      live: "https://devlogg.onrender.com/",
-      code: "https://github.com/Coderamrin/devlog",
+      title: "Harry Potter Quiz",
+      desc: "A timed quiz using HTML, CSS, and JavaScript",
+      live: "https://emmavazquez13.github.io/harrypotterquiz/",
+      code: "https://github.com/emmavazquez13/harrypotterquiz",
     },
     {
       img: uilogs,
       title: "uilogs",
-      desc: "Free website template directory for SaaS and Degital Agency. Built with Bootstrap, JQuery and JavaScript",
-      live: "https://uilogs.xyz/",
-      code: "https://github.com/Coderamrin/html-templates",
+      desc: "I created a password generator with JavaScript.",
+      live: "https://emmavazquez13.github.io/passwordgenerator-/",
+      code: "https://github.com/emmavazquez13/passwordgenerator-",
     },
     {
       img: cssProjects,
-      title: "css projects",
-      desc: "Frontend Mentor challange directory, solved with vanilla CSS",
-      live: "https://build-10-css-projects.netlify.app/",
-      code: "https://github.com/Coderamrin/build-10-css-projects",
-    },
-    {
-      img: getInspirred,
-      title: "get Inspirred",
-      desc: "Quote search app. Used Quotable API for the quotes and React, Redux on the frontend",
-      live: "https://get-inspirred.netlify.app/",
-      code: "https://github.com/Coderamrin/get-inspired",
+      title: "Recipe Finder",
+      desc: "Recipe finder app with UTAustin Bootcamp ",
+      live: "https://dcmccormick.github.io/taste_makers/",
+      code: "https://github.com/emmavazquez13/taste_makers",
     },
   ];
 
