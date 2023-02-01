@@ -6,7 +6,10 @@ Deployed work portfolio in a single-page React app
 
 Link:
 https://github.com/emmavazquez13/reactportfolio
- 
+
+
+
+
 
 ## Table of Contents
 
@@ -32,3 +35,8 @@ npm run start
 ```
 ** must have node.js installed 
 
+## Website Image
+
+![Site image 1](./src/assets/Screenshot%202023-01-31%20at%201.06.51%20PM.png)
+
+ 
