@@ -7,6 +7,9 @@ Deployed work portfolio in a single-page React app
 Link:
 https://github.com/emmavazquez13/reactportfolio
 
+Live app:
+https://reactportfolio1313.herokuapp.com/
+
 
 
 
